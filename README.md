@@ -1,1 +1,1 @@
-# Udacity-Part-1-Project
+Image Classifier to Identify Dog Breeds
